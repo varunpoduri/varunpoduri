@@ -1,7 +1,5 @@
-![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-
-<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="GitHub Profile Banner"/>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GitHub Profile Banner"/>
 
 <h1 align="center">Hi 👋, I'm Poduri Varun</h1>
 <h3 align="center">A passionate full-stack, AI/ML, and Web3 developer.</h3>
@@ -71,7 +69,7 @@
   - **WhatsApp Chat Analyzer** (Python, Streamlit, NLP)
   - **Virtual Stock Trading Simulator** (HTML, CSS, JavaScript, SQLite, Flask)
   - **AI Minesweeper Game** (Python)
-  - **Influential AI and ML Papers** (Contains AI & ML paper in many feilds of AI)
+  - **Influential AI and ML Papers** (Contains AI & ML papers from many fields of AI)
   
   
 
