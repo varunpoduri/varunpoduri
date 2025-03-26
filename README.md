@@ -4,13 +4,15 @@
 <h1 align="center">Hi 👋, I'm Poduri Varun</h1>
 <h3 align="center">A passionate AI/ML, full-stack, and Azure developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d3f2bf7bb4d5f0826c068c2db.gif">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+
 
 ### About Me:
 
 - 🚀 I love working on AI, ML, and deep learning projects.
 - 🌱 Currently diving into **Full Stack Development, DevOps, and Cloud Computing**.
-- 🤖 Passionate about **LLMs, AI-powered applications, fine-tuning models like ChatGPT & LLaMA, and cloud integration**.
+- 🤖 Passionate about **LLMs, AI-powered applications, fine-tuning models**.
 - 📊 Exploring **PowerBI and other interesting Data Analysis Tools**.
 - 🔍 I enjoy **problem-solving, DSA, and working with databases**.
 - 🔧 Good experience with **MERN stack, AI-driven web apps, and CI/CD pipelines**.
