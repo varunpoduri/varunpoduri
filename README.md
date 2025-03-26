@@ -11,9 +11,9 @@
 - 🚀 I love working on AI, ML, and deep learning projects.
 - 🌱 Currently diving into **Full Stack Development, DevOps, and Cloud Computing**.
 - 🤖 Passionate about **LLMs, AI-powered applications, fine-tuning models like ChatGPT & LLaMA, and cloud integration**.
-- 📊 Exploring **stock price prediction with reinforcement learning, sentiment analysis, and backtesting**.
+- 📊 Exploring **PowerBI and other interesting Data Analysis Tools**.
 - 🔍 I enjoy **problem-solving, DSA, and working with databases**.
-- 🔧 Strong experience with **MERN stack, AI-driven web apps, and CI/CD pipelines**.
+- 🔧 Good experience with **MERN stack, AI-driven web apps, and CI/CD pipelines**.
 - 🛠️ Building an **AI podcast generator with Next.js, TypeScript, Convex, and OpenAI APIs**.
 - 💬 Ask me about **AI/ML, Full Stack Dev, DevOps, and Open Source Contributions**.
 - 📫 Reach me at **varunpoduri@gmail.com**.
