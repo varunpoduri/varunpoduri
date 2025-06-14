@@ -62,6 +62,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunpoduri&show_icons=true&locale=en" alt="varunpoduri stats" /></p>
+
 
 
 ### 🔗 Check Out My Projects:
